@@ -1,0 +1,20 @@
+.flex-container{
+    display: flex;
+}
+
+.box{
+    height:500px;
+    min-width:500px;
+}
+
+.one{
+    background: red;
+}
+
+.two{
+    background: blue;
+}
+
+.three{
+    background:green;
+}
