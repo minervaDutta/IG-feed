@@ -3,18 +3,22 @@
 }
 
 .box{
-    height:500px;
-    min-width:500px;
+    height: 500px;
+    min-width: 500px;
+    flex-grow: 1;
 }
 
 .one{
     background: red;
+    flex-grow: 1;
 }
 
 .two{
     background: blue;
+    flex-grow: 2;
 }
 
 .three{
     background:green;
+    flex-grow: 3;
 }
